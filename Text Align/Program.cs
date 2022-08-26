@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Text_Align
 {
@@ -8,5 +9,18 @@ namespace Text_Align
         {
             Console.WriteLine("Hello World!");
         }
+        public List<string> LeftAlign(string s)
+        {
+            return new List<string>();
+        }
+        public List<string> RightAlign(string s)
+        {
+            return new List<string>();
+        }
+        public List<string> CenterAlign(string s)
+        {
+            return new List<string>();
+        }
+       
     }
 }
