@@ -8,13 +8,10 @@ namespace Text_Align
     {
         static void Main(string[] args)
         {
-            
             string s = "My name is Farzin Anan Mukit.\nI am 23 years old.\nI am a .Net Developer.\nI love playing guitar.";
             LeftAlign(s);
             RightAlign(s);
             CenterAlign(s);
-            
-            
         }
         public static void LeftAlign(string s)
         {

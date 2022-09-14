@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probelem Solving", "Probelem Solving\Probelem Solving.csproj", "{541D98A5-F7B5-4A7E-A102-560574D74E18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Probelem Solving", "Probelem Solving\Probelem Solving.csproj", "{541D98A5-F7B5-4A7E-A102-560574D74E18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Align", "Text Align\Text Align.csproj", "{4CA96A70-63AF-4D56-86D5-327FE4CD3665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Text Align", "Text Align\Text Align.csproj", "{4CA96A70-63AF-4D56-86D5-327FE4CD3665}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Magnets", "A. Magnets\A. Magnets.csproj", "{4475337D-62F7-4309-9E22-6E75E65F7D7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1352A", "SHUTTLE A\1352A.csproj", "{10A84EDA-0CED-4B65-BE36-04A730E48FF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{4CA96A70-63AF-4D56-86D5-327FE4CD3665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA96A70-63AF-4D56-86D5-327FE4CD3665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA96A70-63AF-4D56-86D5-327FE4CD3665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4475337D-62F7-4309-9E22-6E75E65F7D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4475337D-62F7-4309-9E22-6E75E65F7D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4475337D-62F7-4309-9E22-6E75E65F7D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4475337D-62F7-4309-9E22-6E75E65F7D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A84EDA-0CED-4B65-BE36-04A730E48FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A84EDA-0CED-4B65-BE36-04A730E48FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A84EDA-0CED-4B65-BE36-04A730E48FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A84EDA-0CED-4B65-BE36-04A730E48FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
